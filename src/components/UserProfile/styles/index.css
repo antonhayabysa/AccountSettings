@@ -1,0 +1,18 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 240px;
+}
+
+.infoForm {
+    margin-left: 240px;
+    max-width: 1120px;
+}
