@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    background: #F1F5F8;
+}
+
+.container {
+    padding: 40px 41px 43px 32px;
+    display: flex;
+}
+

@@ -1,0 +1,174 @@
+
+.ModalFormSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.ModalTitleSecurity {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 23px;
+}
+
+.ModalTitle {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.imageContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.imageContainer .noeyeIcon {
+    margin-right: 6px;
+}
+
+.imageContainer .deltextIcon {
+    margin-right: 6px;
+}
+
+.PasswordInput {
+    border: none;
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ABB6BD;
+    width: 100%;
+}
+
+.ModalFormTitle {
+    margin-bottom: 24px;
+}
+
+.formTitleText {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    color: #151B26;
+}
+
+.crossIcon {
+    width: 16px;
+    height: 16px;
+}
+
+.ModalFormFieldLabel {
+    padding-bottom: 8px;
+}
+
+.ForgotTextRed {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #F32B32;
+}
+
+.ForgotText {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #6DB353;
+}
+
+.CurrentPasswordText {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6B717B;
+}
+
+.ModalFormTitleText {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ABB6BD;
+}
+
+.noeyeIcon {
+    width: 20px;
+    height: 19px;
+}
+
+.deltextIcon {
+    width: 12px;
+    height: 12px;
+}
+
+.ModalFormDelimiter {
+    width: 100%;
+    border: 0;
+    border-top: 1px solid #ABB6BD;;
+    margin-top: 16px;
+}
+
+.ModalFormDelimiterRed {
+    width: 100%;
+    border: 0;
+    border-top: 1px solid #F32B32;
+    margin-top: 16px;
+}
+
+.btnContainer {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    margin-top: 32px;
+}
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 24px;
+    width: 210px;
+    height: 40px;
+    background: #9EA9B0;
+    border-radius: 40px;
+    margin-left: auto;
+}
+
+.btnText {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #CCD6DD;
+}
+
+.btn.error {
+    background: #6DB353;
+}
+
+.btn.error .btnText {
+    color: #FFFFFF;
+}
+
+
+
+
+

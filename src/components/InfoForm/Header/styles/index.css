@@ -1,0 +1,63 @@
+
+.Header{
+    padding: 40px 41px 0px 31px;
+}
+.containerHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.containerTitle {
+    display: flex;
+    align-items: center;
+}
+
+.arrowLeftContainer {
+    display: flex;
+    align-items: center;
+}
+
+.arrowLeft {
+    width: 20.31px;
+    height: 20.63px;
+    margin-right: 32px;
+}
+
+.textSettings {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    color: #151B26;
+}
+
+.dotsContainer {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.dots {
+    width: 20px;
+    height: 4px;
+    margin-left: 5px;
+}
+
+.textIn {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 8px;
+    margin-left: 50px;
+}
+.text {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #878F99;
+}
+
