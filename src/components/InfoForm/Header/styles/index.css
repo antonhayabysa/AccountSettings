@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'Basier Circle';
+    src: url('../../../../fonts/BasierCircle-Regular.ttf') format('truetype');
+}
 
 .Header{
     padding: 40px 41px 0px 31px;

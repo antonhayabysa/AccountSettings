@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Basier Circle';
+    src: url('../../../../fonts/BasierCircle-Regular.ttf') format('truetype');
+}
+
 .cardsHeader {
     display: flex;
     flex-direction: column;
