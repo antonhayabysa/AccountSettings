@@ -1,0 +1,13 @@
+.icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    padding-right: 15px;
+    /*padding-left: 41.2px;*/
+}
+
+.icon-dashboard {
+    fill: #FFFFFF;
+    stroke: #9EA9B0;
+    stroke-width: 1px;
+}
