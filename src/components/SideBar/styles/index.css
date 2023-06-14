@@ -1,0 +1,187 @@
+@font-face {
+    font-family: 'Basier Circle';
+    src: url('../../../fonts/BasierCircle-Regular.ttf') format('truetype');
+}
+
+.sidebar {
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background: #FFFFFF;
+    padding: 40px 41px 43px 32px;
+}
+
+.sidebarBlock_1 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 51px;
+}
+
+.sidebarLogo {
+    width: 40.8px;
+    height: 32px;
+}
+
+.sidebarBlock_2 {
+    gap: 36px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebarItemBlock_1 {
+    display: flex;
+    align-items: center;
+}
+
+.textDashboard {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #151B26;
+}
+
+.textFAQ {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #151B26;
+}
+
+.sidebarBlock_3 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 251px;
+}
+.sidebarItemBlock_3 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.preQualify {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #151B26;
+}
+
+.itemTextSidebarBlock_3 {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #9EA9B0;
+}
+
+.sidebarBlock_4 {
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebarCircle {
+    width: 22px;
+    height: 22px;
+    padding-right: 9px;
+}
+
+.dividerVertical {
+    width: 16px;
+    height: 0px;
+    border: 1px solid #EDF2F6;
+    transform: rotate(90deg);
+    margin-left: 2px;
+}
+.sidebarDivider {
+    width: 159px;
+    height: 0px;
+    border-top: 1px solid #CCD6DD;
+    margin-top: 25.2px;
+    margin-bottom: 25px;
+}
+
+.sidebarBlock_4_Item_1 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 34.5px;
+}
+
+.sidebarBlock_4_Item_2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 35px;
+}
+
+.sidebarJsIcon {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.textAccount {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #878F99;
+    text-align: center;
+}
+
+.textName {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #151B26;
+    text-align: center;
+}
+
+.sidebarEllipse {
+    width: 22px;
+    height: 22px;
+    padding-right: 9px;
+}
+
+.sidebarChat {
+    width: 22px;
+    height: 22px;
+    padding-right: 9px;
+}
+.textSupport {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #151B26;
+}
+
+.sidebarlogout {
+    width: 16.71px;
+    height: 18px;
+    padding-right: 16.28px;
+}
+.textLogOut {
+    font-family: 'Basier Circle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #151B26;
+}
